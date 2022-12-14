@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Giorgio!
 - 👀 I’m a physicist by training but working on switching careers to data science and machine learning!
-- :evergreen_tree: I’m looking to work in climate science or on products that enrich peoples' lives.
+- :evergreen_tree: I’m interested in working on things that enrich humanity.
 - 🔭 I’m currently working on:
 	- [ ] IBM Data Science Professional Certificate on Coursera
 	- [ ] Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow
