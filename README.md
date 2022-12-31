@@ -2,7 +2,7 @@
 - 👀 I’m a physicist by training but working on switching careers to data science and machine learning!
 - :evergreen_tree: I’m interested in working on things that enrich humanity.
 - 🔭 I’m currently working on:
-	- [ ] IBM Data Science Professional Certificate on Coursera
+	- [ ] IBM Data Science Professional Certificate on Coursera (awarded December 2022 :fried_shrimp:!)
 	- [ ] Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow
   	- [ ] Personal Projects
   	- [ ] Data Science/ML Interview Prep
