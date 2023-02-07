@@ -1,5 +1,5 @@
 # 👋 Hi there, I’m Giorgio!
-- 👀 Was a physicist but working on switching careers to data science and machine learning!
+- 👀 Was a physicist but working on switching careers!
 - :evergreen_tree: I’m interested in working on things that enrich humanity.
 - 🔭 I’m currently working on:
 	- [ ] IBM Data Science Professional Certificate on Coursera (awarded December 2022 :fried_shrimp:!)
