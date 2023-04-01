@@ -3,8 +3,9 @@
 - :evergreen_tree: I’m interested in working on things that enrich humanity.
 - 🔭 I’m currently working on:
 	- [X] IBM Data Science Professional Certificate on Coursera
+	- [X] iOS & Swift Bootcamp by Dr. Angela Yu
+	- [ ] 100 Days of Swift with Paul Hudson
 	- [ ] Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow
-  	- [ ] iOS & Swift Bootcamp by Dr. Angela Yu
 	- [ ] Personal Projects
 
 
