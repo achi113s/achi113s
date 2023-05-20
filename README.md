@@ -2,12 +2,11 @@
 - 👀 Was a physicist but working on switching careers. Thinking iOS development and machine learning!
 - :evergreen_tree: I’m interested in working on things that enrich humanity.
 - 🔭 I’m currently working on:
-	- [ ] Personal Projects
+	- Personal Projects
 	- [X] iOS & Swift Bootcamp by Dr. Angela Yu
 	- [ ] 100 Days of Swift with Paul Hudson
 	- [ ] 100 Days of SwiftUI with Paul Hudson
 	- [ ] Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow
-	- [X] IBM Data Science Professional Certificate on Coursera
 
 
 <p align="center">
