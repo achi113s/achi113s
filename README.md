@@ -2,7 +2,7 @@
 - 👀 Was a physicist but working on switching careers. iOS Development is the name of the game!
 - :evergreen_tree:
 - 🔭 I’m currently working on:
-	- Personal Projects
+	- ConsciousCart for iOS
 	- [X] iOS & Swift Bootcamp by Dr. Angela Yu
 	- [ ] 100 Days of Swift with Paul Hudson
 	- [X] 100 Days of SwiftUI with Paul Hudson
