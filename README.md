@@ -1,12 +1,8 @@
 # 👋 Hi there, I’m Giorgio!
 - 👀 Was a physicist but working on switching careers. iOS Development is the name of the game!
-- :evergreen_tree:
 - 🔭 I’m currently working on:
 	- ConsciousCart for iOS
-	- [X] iOS & Swift Bootcamp by Dr. Angela Yu
-	- [ ] 100 Days of Swift with Paul Hudson
-	- [X] 100 Days of SwiftUI with Paul Hudson
-	- [X] Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow
+	- Landing an iOS Engineer job.
 
 
 <p align="center">
