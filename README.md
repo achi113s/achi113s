@@ -1,7 +1,9 @@
 # 👋 Hi there, I’m Giorgio!
 - 👀 Was a physicist but working on switching careers. iOS Development is the name of the game!
 - 🔭 I’m currently working on:
-	- ConsciousCart for iOS
+	- ConsciousCart for iOS. My first official app.
+	- Smaller Swift projects with SwiftUI & UIKit
+    	- Learning about XCTest
 	- Landing an iOS Engineer job.
 
 
