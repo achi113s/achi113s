@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on:
 	- ConsciousCart for iOS. My first official app.
 	- Smaller Swift projects with SwiftUI & UIKit
-    	- Learning about XCTest
+ 	- Learning about XCTest
 	- Landing an iOS Engineer job.
 
 
