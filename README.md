@@ -1,4 +1,4 @@
-# 👋🏻 Hey, I’m Giorgio!
+# 👋 Hey, I’m Giorgio!
 - 👀 I was a physicist but now I'm switching careers to iOS Development!
 - 🔭 I’m currently working on:
 	- ConsciousCart for iOS. My first official app.
@@ -8,7 +8,6 @@
 
 
 <p align="center">
-Find me 👉🏻
 <a target="_blank" href="https://www.linkedin.com/in/glat1957/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="https://www.twitter.com/giorgio_latour/"><img src="https://img.shields.io/badge/-Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 </p>
