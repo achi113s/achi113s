@@ -2,7 +2,7 @@
 - 👀 I was a physicist but now I'm switching careers to iOS Development!
 - 🔭 I’m currently working on:
 	- ConsciousCart for iOS. My first official app.
- 	- RecipeVision. My second app.
+ 	- Grocemate, my second app.
 	- Smaller Swift projects with SwiftUI & UIKit
 	- Landing an iOS Engineer job.
 
