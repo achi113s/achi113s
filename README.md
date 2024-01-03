@@ -1,10 +1,10 @@
 # 👋 Hey, I’m Giorgio!
-- 👀 I was a physicist but now I'm switching careers to iOS Development!
+- 👀 I was a physicist but now I'm switching careers to software development!
 - 🔭 I’m currently working on:
 	- ConsciousCart for iOS. My first official app.
  	- Grocemate, my second app.
 	- Smaller Swift projects with SwiftUI & UIKit
-	- Landing an iOS Engineer job.
+	- Landing a software job.
 
 
 <p align="center">
